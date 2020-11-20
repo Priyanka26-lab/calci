@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff567;
+  border-radius: 15px;
+  border-color: black;
+  height: 450px;
+  width: 400px;
+}
+button {
+  padding: 10px;
+  margin: 5px;
+  size: 30px;
+  width: 100px;
+  color: black;
+  padding: 5px;
+  background-color: black;
+  color: rgb(211, 203, 192);
+  border: 3px solid black;
+  border-radius: 4px;
+  width: 100px;
+}
